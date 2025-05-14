@@ -18,4 +18,5 @@ flags* parse_flags(int argc, char** argv) {
   /* Parse flags received from command line */
 
   /* Commands as shown in help function */
+  
 }
