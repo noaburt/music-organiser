@@ -1,0 +1,8 @@
+
+/* -- main.c --
+ * 
+ * LetsPlay - Noa Burt, 2025
+ */
+
+#include "main.h"
+#include <stdio.h>
